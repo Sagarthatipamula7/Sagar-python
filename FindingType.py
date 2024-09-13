@@ -1,0 +1,11 @@
+name="sagar"
+age=19
+marks=87.5
+a=True
+b=None
+marks=age
+print(type(name))
+print(type(age))
+print(type(marks))
+print(type(a))
+print(type(b))
